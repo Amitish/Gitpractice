@@ -3,7 +3,7 @@ resource "azurerm_resource_group" "example" {
   location = "East US"
 }
 
-resource "azurerm_resource_group" "branch1" {
-  name     = "branch1"
+resource "azurerm_resource_group" "branch2" {
+  name     = "branch2"
   location = "East US"
 }
